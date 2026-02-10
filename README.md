@@ -344,11 +344,9 @@ This project is free to use for educational purposes.
 
 \## 👨‍💻 Author
 
+**PALAVI BHAVE**
 
-
-Created as part of a machine learning assignment
-
-
+- GitHub: [@PalaviBhave](https://github.com/PalaviBhave)
 
 \## 🙏 Acknowledgments
 
